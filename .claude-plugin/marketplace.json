@@ -8,7 +8,7 @@
   "plugins": [
     {
       "name": "wordpress-developer",
-      "source": "../skills/wordpress-developer",
+      "source": "./skills/wordpress-developer",
       "description": "WordPress 6.5+ theme and plugin development expert. Custom Post Types, Gutenberg blocks, Interactivity API, WooCommerce, REST API, security and performance optimization.",
       "version": "1.0.0",
       "author": {
