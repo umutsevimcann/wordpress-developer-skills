@@ -1,0 +1,28 @@
+{
+  "name": "wordpress-developer",
+  "version": "1.0.0",
+  "description": "WordPress 6.5+ theme and plugin development expert. Includes Custom Post Types, Gutenberg blocks, Interactivity API, WooCommerce integration, REST API, security best practices and performance optimization.",
+  "author": {
+    "name": "Umut Sevimcan"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/umutsevimcann/wordpress-developer-skills"
+  },
+  "keywords": [
+    "wordpress",
+    "theme",
+    "plugin",
+    "gutenberg",
+    "woocommerce",
+    "interactivity-api",
+    "rest-api",
+    "php",
+    "development",
+    "block-theme",
+    "fse"
+  ],
+  "category": "development",
+  "minimumClaudeCodeVersion": "1.0.0"
+}

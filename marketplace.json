@@ -1,0 +1,30 @@
+{
+  "name": "wordpress-developer-skills",
+  "description": "Professional WordPress theme and plugin development skills for Claude Code",
+  "version": "1.0.0",
+  "owner": {
+    "name": "Umut Sevimcan"
+  },
+  "plugins": [
+    {
+      "name": "wordpress-developer",
+      "source": "./skills/wordpress-developer",
+      "description": "WordPress 6.5+ theme and plugin development expert. Custom Post Types, Gutenberg blocks, Interactivity API, WooCommerce, REST API, security and performance optimization.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Umut Sevimcan"
+      },
+      "category": "development",
+      "tags": [
+        "wordpress",
+        "theme",
+        "plugin",
+        "gutenberg",
+        "woocommerce",
+        "php",
+        "development"
+      ],
+      "strict": false
+    }
+  ]
+}
